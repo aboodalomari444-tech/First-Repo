@@ -17,6 +17,7 @@ namespace OnlineAcadimy
         {
             
             var builder = WebApplication.CreateBuilder(args);
+            
 
             builder.Services.AddDbContext<OnlineAcademyDbContext>(options =>
                 options.UseSqlServer(
