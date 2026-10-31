@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\service\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\service\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\controllers\\lecturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\controllers\\lecturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\constants\\appclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\constants\\appclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\service\\ijutservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\service\\ijutservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|c:\\users\\moham\\onedrive\\desktop\\acadimy\\onlineacadimy\\onlineacadimy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FDC5AB-EC89-DBC0-B241-0A29BE6F40CA}|OnlineAcadimy\\OnlineAcadimy.csproj|solutionrelative:onlineacadimy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Service\\AssignmentService.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\AssignmentService.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Service\\AssignmentService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:34:04.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppClaimTypes.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Constants\\AppClaimTypes.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Constants\\AppClaimTypes.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Constants\\AppClaimTypes.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Constants\\AppClaimTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:23:41.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAcwIMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:06:06.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:13:47.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LecturesController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\LecturesController.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Controllers\\LecturesController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\LecturesController.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Controllers\\LecturesController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T14:44:38.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\JwtService.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Service\\JwtService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T13:30:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Controllers\\AssignmentsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwFUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:12:23.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubmissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\SubmissionsController.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Controllers\\SubmissionsController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\SubmissionsController.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Controllers\\SubmissionsController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAiwI8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:14:12.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:13:22.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\AuthService.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T13:30:26.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Constants\\Roles.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:03:33.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\IUserService.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T15:57:45.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Program.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwDwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T14:38:25.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Service\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\IAuthService.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Service\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T13:30:29.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IJutServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\IJutServicecs.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Service\\IJutServicecs.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\IJutServicecs.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Service\\IJutServicecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T13:30:17.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\UserService.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:14:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Service\\CourseService.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Service\\CourseService.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Service\\CourseService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:14:46.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OnlineAcadimy\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Acadimy\\OnlineAcadimy\\OnlineAcadimy\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OnlineAcadimy\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T13:29:47.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
