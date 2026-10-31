@@ -36,7 +36,7 @@ namespace OnlineAcadimy.Controllers
             switch (result)
             {
                 case EnrollmentResult.Success:
-                    return StatusCode(201, new
+                    return StatusCode(200, new
                     {
                         message = "Successfully enrolled in the course."
                     });

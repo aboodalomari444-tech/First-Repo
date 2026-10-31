@@ -25,12 +25,12 @@ namespace OnlineAcadimy.Controllers
 
             return Ok(users);
         }
-        [HttpPut("{userId}/role")]
+        [HttpPut("{userId}/roles")]
         public async Task<IActionResult> UpdateUserRole(int userId,[FromBody] UpdateUserRoleDTO dto)
         {
             if (userId <= 0)
             {
-                return BadRequest("Invalid user ID.");
+                return Ok("Invalid user ID.");
             }
 
             try

@@ -24,12 +24,12 @@ namespace OnlineAcadimy.Controllers
         [Authorize(Roles = Roles.Instructor)]
         public async Task<IActionResult> CreateAssignment([FromBody] CreateAssignmentDTO dto)
         {
-            var instructorIdClaim = User.FindFirst(
+            var instructorIdClaim = User.FindFirstValue(
                 ClaimTypes.NameIdentifier)?.Value;
 
             if (!int.TryParse(instructorIdClaim, out int instructorId))
             {
-                return Unauthorized();
+                return Ok();
             }
 
 

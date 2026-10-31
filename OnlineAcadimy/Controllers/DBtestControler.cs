@@ -23,7 +23,7 @@ namespace YourProjectNamespace.Controllers
             bool connected = await _context.Database.CanConnectAsync();
 
             if (connected)
-                return Ok("Database Connected Successfully!");
+                return Ok("Database Connected jb bjbnjnj Successfully!");
 
             return StatusCode(500, "Could not connect to the database.");
         }
